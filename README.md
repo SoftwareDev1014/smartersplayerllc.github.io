@@ -1,18 +1,6 @@
 # Company Website
 
-This project is a simple website for Star Media Tech LLC. It includes essential information about the company, such as its name, a brief description, and contact details.
-
-## Project Structure
-
-```
-company-website
-├── index.html        # Main HTML document for the website
-├── css
-│   └── styles.css    # Styles for the website
-├── js
-│   └── scripts.js     # JavaScript for interactive features
-└── README.md         # Documentation for the project
-```
+This project is a simple website for SmartersPlayer LLC. It includes essential information about the company, such as its name, a brief description, and contact details.
 
 ## Getting Started
 
@@ -27,9 +15,7 @@ To set up and run the website, follow these steps:
 
 For any inquiries, please contact us at:
 
-- Email: starmediatechllc@gmail.com
-- Phone: +14049033399
-
+- Email: smartersiptvplayer@gmail.com
 ## License
 
 This project is licensed under the MIT License.
